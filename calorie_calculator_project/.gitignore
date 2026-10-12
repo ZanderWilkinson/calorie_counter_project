@@ -1,0 +1,28 @@
+# API keys and secrets
+.env
+.env.*
+
+# Conda / virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Python testing cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# macOS files
+.DS_Store
+
+# Local databases
+*.db
+*.sqlite3
+
+# IDE settings
+.idea/
+.vscode/
